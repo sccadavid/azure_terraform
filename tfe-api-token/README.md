@@ -8,7 +8,7 @@ In this challenge, you will create an individual user token for use in future la
 
 ### Login
 
-Login to <https://tap-tfe.digitalinnovation.dev>:
+Login to <https://app.terraform.io>:
 
 ![](img/tfe-login.png)
 
